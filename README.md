@@ -39,13 +39,13 @@
 - [JuliaCollections](https://github.com/JuliaCollections)
 - [JuliaData](https://github.com/JuliaData)
 - [JuliaDatabases](https://github.com/JuliaDatabases)
+<a name = "digital-signal-processing"></a>
+## Digital Signal Processing
 <a name = "documents"></a>
+- [DSP](https://github.com/JuliaDSP)
 ## Documents
 - [JuliaBook](https://github.com/JuliaBooks)
 - [JuliaDocs](https://github.com/JuliaDocs)
-## Digital Signal Processing
-<a name = "digital-signal-processing"></a>
-- [DSP](https://github.com/JuliaDSP)
 <a name = "gpu-computing"></a>
 ## GPU computing
 - [JuliaGPU](https://github.com/JuliaGPU)
